@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://thrivin.in`,
     description: `Thrivin.in, a Publication by Kazi Ridwan.`,
     hero: {
-      heading: `The thrivin.in blog`,
+      heading: `You. Keep Thrivin.`,
       maxWidth: 652,
     },
     social: [
