@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    title: `Thrivin Magazine`,
+    name: `Thrivin`,
+    siteUrl: `https://thrivin.in`,
+    description: `Thrivin.in, a Publication by Kazi Ridwan.`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `The thrivin.in blog`,
       maxWidth: 652,
     },
     social: [
