@@ -30,6 +30,7 @@ module.exports = {
 //         url: `https://dribbble.com/narativestudio`,
 //       },
       {
+        name: 'url',
         url: `https://kaziridwan.com`,
       },
     ],
