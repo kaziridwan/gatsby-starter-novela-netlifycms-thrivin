@@ -1,12 +1,10 @@
-name: Dennis Brotzky
-bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
-avatar: ./avatars/dennis-brotzky.jpg
-social:
-  - url: https://unsplash.com
-  - url: https://stackoverflow.com
-  - url: https://github.com
-  - url: https://github.com
-  - url: https://github.com
+name: Kazi Ridwan
+bio: Software Engineer @ joybird.
 featured: true
+avatar: avatars/photo.jpg
+social:
+  - url: 'https://unsplash.com'
+  - url: 'https://stackoverflow.com'
+  - url: 'https://github.com'
+  - url: 'https://github.com'
+  - url: 'https://github.com'
